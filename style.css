@@ -4,10 +4,12 @@
 
 .lingue {
     float: left;
-    width: 20x;
-    height: 20px;
-    margin-left: 20px;
+    width: 70px;
+    height: 40px;
+    margin-left: 10px;
     margin-right: 20px;
+    border-radius: 2px;
+    vertical-align: middle;
 }
 
 .acme {
