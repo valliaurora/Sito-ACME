@@ -15,7 +15,7 @@
 .acme {
   color: black;
     text-decoration: none;
-    font-family: Impact, Charcoal, sans-serif;
+    font-family: Impact, sans-serif;
     font-size: 36pt;
 }
 
@@ -25,6 +25,12 @@
     height: 600px;
     margin-left: 20px;
     margin-right: 20px;
+}
+
+.h1 {
+    float: center;
+    font-family: Impact, sans-serif;
+    font-size: 40pt;
 }
 
 .open day {
