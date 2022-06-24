@@ -14,7 +14,8 @@
 }
 
 .acme {
-  color: black;
+    float: center
+    color: black;
     text-decoration: none;
     font-family: Impact, sans-serif;
     font-size: 36pt;
